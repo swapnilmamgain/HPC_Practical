@@ -1,4 +1,5 @@
 # HPC_Practical
 
 
-Name: Swapnil
+Name: Swapnil Mamgain
+Reg: 22BSA10012
